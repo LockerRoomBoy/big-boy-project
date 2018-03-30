@@ -1,0 +1,19 @@
+nav ul {text-align: center; padding: 7% 0;}
+nav ul li {display: inline; margin: 0 4%;}
+.box {
+    border: 1px solid black;
+}
+h1 {
+    font-family: 'Chicle', cursive;
+    font-size: 80px;
+    text-align: left;
+}
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    vertical-align: middle;
+}
+.link {
+    vertical-align: middle;
+}
+  
