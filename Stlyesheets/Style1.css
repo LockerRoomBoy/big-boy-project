@@ -2,18 +2,29 @@ nav ul {text-align: center; padding: 7% 0;}
 nav ul li {display: inline; margin: 0 4%;}
 .box {
     border: 1px solid black;
+    margin: 0 25%;
+    background-color: white;
+    padding: 2% 5%;
 }
 h1 {
     font-family: 'Chicle', cursive;
-    font-size: 80px;
-    text-align: left;
+    text-align: center;
+    font-size: 450%;
+    color: whitesmoke;
 }
 h2 {
     font-family: 'Oswald', sans-serif;
     font-size: 40px;
-    vertical-align: middle;
+    text-align: center;
+    color: whitesmoke;
 }
 .link {
-    vertical-align: middle;
+     margin: 0 25%;
 }
-  
+p {
+  font-family: 'Open Sans', sans-serif;
+    
+}
+body {
+    background-color: lightgray;
+}
